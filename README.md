@@ -1,0 +1,2 @@
+# boletao
+A "boleto" generator.
