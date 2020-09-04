@@ -1,0 +1,15 @@
+{
+    "name": "hdias/boletao",
+    "authors": [
+        {
+            "name": "hdias",
+            "email": "diaslinoh@gmail.com"
+        }
+    ],
+    "require": {
+        "openboleto/openboleto": "dev-master",
+        "dompdf/dompdf": "^0.8.5",
+        "kriansa/h2p": "dev-master",
+        "slim/slim": "3.*" 
+    }
+}
